@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "project library")(type Legacy)(uri "${KIPRJMOD}/project library.lib")(options "")(descr ""))
+  (lib (name AD633JNZ)(type Legacy)(uri ${KIPRJMOD}/AD633JNZ.lib)(options "")(descr ""))
+)
