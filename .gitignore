@@ -2,6 +2,5 @@
 *.npy
 *.png
 *.pdf
-**.gz
 **/output.txt
 __pycache__
